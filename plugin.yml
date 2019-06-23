@@ -1,4 +1,9 @@
-name: ActionHints
+name: ActionAssistant
 main: com.mcbbs.pluginbisai.Main
 version: 1.0
 author: QQ410498825
+commands: 
+  Action: 
+    description: "动作助手插件"
+    usage: /Action
+    aliases: [Action]
